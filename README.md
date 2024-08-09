@@ -1,3 +1,5 @@
+Repository for workshop purposes led by me.
+
 # Tauri + Svelte + Typescript
 
 This template should help get you started developing with Tauri, Svelte and TypeScript in Vite.
